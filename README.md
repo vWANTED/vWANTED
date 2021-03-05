@@ -10,7 +10,7 @@
  
 ---
 ## Tools:
-<img src = 'https://cdn.discordapp.com/attachments/804784851035095050/807557490647498762/1200px-Visual_Studio_Code_Insiders_1.36_icon.svg.png' height='27'> <img src = 'https://cdn.discordapp.com/attachments/804784851035095050/807558058506977280/1024px-PyCharm_Logo.svg.png' height='27'> <img src = 'https://cdn.discordapp.com/attachments/804784851035095050/807558530948661298/1200px-WebStorm.png' height='27'> <img src = 'https://cdn.discordapp.com/attachments/804784851035095050/807558946121842708/1024px-IntelliJ_IDEA_Logo.svg.png' height = '27'> <img src = 'https://cdn.discordapp.com/attachments/802216360318468187/810190126495170667/mysql-workbench-icon.png' height = '27'>
+<img src = 'https://cdn.discordapp.com/attachments/804784851035095050/807558946121842708/1024px-IntelliJ_IDEA_Logo.svg.png' height = '27'> <img src = 'https://cdn.discordapp.com/attachments/802216360318468187/810190126495170667/mysql-workbench-icon.png' height = '27'>
 
 
 ---
