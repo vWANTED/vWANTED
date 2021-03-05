@@ -10,7 +10,7 @@
  
 ---
 ## Tools:
-<img src = 'https://cdn.discordapp.com/attachments/804784851035095050/807558946121842708/1024px-IntelliJ_IDEA_Logo.svg.png' height = '27'> <img src = 'https://cdn.discordapp.com/attachments/802216360318468187/810190126495170667/mysql-workbench-icon.png' height = '27'>
+<img src = 'https://cdn.discordapp.com/attachments/786441341919035403/817424547741565008/58481537cef1014c0b5e4968.png' height = '27'> <img src = 'https://cdn.discordapp.com/attachments/804784851035095050/807558946121842708/1024px-IntelliJ_IDEA_Logo.svg.png' height = '27'> <img src = 'https://cdn.discordapp.com/attachments/802216360318468187/810190126495170667/mysql-workbench-icon.png' height = '27'>
 
 
 ---
